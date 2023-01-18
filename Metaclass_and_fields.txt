@@ -1,0 +1,2 @@
+Class name = Person, ['__module__', '__qualname__', '__init__', '__str__']
+Class name = A, ['__module__', '__qualname__']
