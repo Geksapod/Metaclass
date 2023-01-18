@@ -8,5 +8,5 @@ if __name__ == "__main__":
     person_1 = ms.Person("Petrenko", "Petro", 112233)
 
     print(person_1)
-    print(ms.Person.__dict__.keys())
-    print(ms.MetaClassUse.__dict__.keys())
+    # print(ms.Person.__dict__.keys())
+    # print(ms.MetaClassUse.__dict__.keys())
